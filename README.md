@@ -1,8 +1,8 @@
 ##  Olá! Eu sou Haryel!
 
 <div align="center">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=HaryelCicarello&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaryelCicarello&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=HaryelCicarello&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaryelCicarello&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 </div>
   <div style="display: inline_block"><br>
